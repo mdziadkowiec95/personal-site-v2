@@ -8,7 +8,9 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "beautiful-react-hooks": "^3.11.1",
     "gatsby": "^4.23.1",
+    "gatsby-image": "^3.11.0",
     "gatsby-plugin-feed": "^4.23.1",
     "gatsby-plugin-image": "^2.23.1",
     "gatsby-plugin-manifest": "^4.23.1",
@@ -21,9 +23,12 @@
     "gatsby-source-filesystem": "^4.23.0",
     "gatsby-transformer-remark": "^5.23.1",
     "gatsby-transformer-sharp": "^4.23.1",
+    "polished": "^4.2.2",
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5",
+    "styled-normalize": "^8.0.7",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
   },
